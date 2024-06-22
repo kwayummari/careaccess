@@ -5,9 +5,7 @@
 <body>
 
   <?php include 'models/header/header.php' ?>
-
-  <!-- ======= Hero Section ======= -->
-  
+  <?php include 'models/carousel/carousel.php' ?>
 
   <main id="main">
 
