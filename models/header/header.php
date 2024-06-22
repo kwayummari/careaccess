@@ -1,3 +1,5 @@
+<?php include 'functions/setActiveMenu.php'; ?>
+
 <!-- ======= Header ======= -->
 <header id="header" class="header d-flex align-items-center">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
@@ -12,11 +14,11 @@
       <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a href="index.php" class="active">Home</a></li>
-          <li><a href="about.php">About</a></li>
-          <li><a href="services.php">Services</a></li>
-          <li><a href="projects.php">Projects</a></li>
-          <li><a href="blog.php">Blog</a></li>
+          <li><a href="index.php" <?php setActiveClass('index.php'); ?>>Home</a></li>
+          <li><a href="about.php" <?php setActiveClass('about.php'); ?>>About</a></li>
+          <li><a href="services.php" <?php setActiveClass('services.php'); ?>>Services</a></li>
+          <li><a href="projects.php" <?php setActiveClass('projects.php'); ?>>Projects</a></li>
+          <li><a href="blog.php" <?php setActiveClass('blog.php'); ?>>Blog</a></li>
           <li class="dropdown"><a href="#"><span>Dropdown</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
             <ul>
               <li><a href="#">Dropdown 1</a></li>
@@ -34,9 +36,9 @@
               <li><a href="#">Dropdown 4</a></li>
             </ul>
           </li>
-          <li><a href="contact.php">Contact</a></li>
+          <li><a href="contact.php" <?php setActiveClass('contact.php'); ?>>Contact</a></li>
         </ul>
       </nav><!-- .navbar -->
 
     </div>
-  </header><!-- End Header -->
+</header><!-- End Header -->
