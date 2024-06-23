@@ -5,14 +5,14 @@
   <div class="container">
     <div class="row">
 
-      <div class="col-lg-4 col-md-6">
+      <div class="col-lg-3 col-md-6">
         <div class="footer-info">
           <h3>CARE ACCESS</h3>
           <p>
-            A108 Adam Street <br>
-            NY 535022, USA<br><br>
-            <strong>Phone:</strong> +1 5589 55488 55<br>
-            <strong>Email:</strong> info@example.com<br>
+          Established in 2022, Care Access has quickly become a trusted leader
+          in the field of medical devices and supplies in Tanzania and within the region.<br><br>
+            <strong>Phone:</strong> +255 762 996 305<br>
+            <strong>Email:</strong> info@careaccess.co.tz<br>
           </p>
           <div class="social-links d-flex mt-3">
             <a href="#" class="d-flex align-items-center justify-content-center"><i class="bi bi-twitter"></i></a>
@@ -23,9 +23,9 @@
         </div>
       </div><!-- End footer info column-->
 
-      <div class="col-lg-2 col-md-3 footer-links">
+      <div class="col-lg-3 col-md-4 footer-links">
         <h4>Useful Links</h4>
-        <ul>
+        <ul type=".">
           <li><a href="#">Home</a></li>
           <li><a href="#">About us</a></li>
           <li><a href="#">Services</a></li>
@@ -34,36 +34,23 @@
         </ul>
       </div><!-- End footer links column-->
 
-      <div class="col-lg-2 col-md-3 footer-links">
+      <div class="col-lg-3 col-md-4 footer-links">
         <h4>Our Services</h4>
         <ul>
-          <li><a href="#">Web Design</a></li>
-          <li><a href="#">Web Development</a></li>
-          <li><a href="#">Product Management</a></li>
-          <li><a href="#">Marketing</a></li>
-          <li><a href="#">Graphic Design</a></li>
+          <li><a href="#">Distribution of medical devices and supplies</a></li>
+          <li><a href="#">Importation of medical devices and supplies</a></li>
+          <li><a href="#">Equipment installation and technical support</a></li>
+          <li><a href="#">Application training and consultation</a></li>
         </ul>
       </div><!-- End footer links column-->
 
-      <div class="col-lg-2 col-md-3 footer-links">
-        <h4>Hic solutasetp</h4>
+      <div class="col-lg-3 col-md-4 footer-links">
+        <h4>Sample Products</h4>
         <ul>
-          <li><a href="#">Molestiae accusamus iure</a></li>
-          <li><a href="#">Excepturi dignissimos</a></li>
-          <li><a href="#">Suscipit distinctio</a></li>
-          <li><a href="#">Dilecta</a></li>
-          <li><a href="#">Sit quas consectetur</a></li>
-        </ul>
-      </div><!-- End footer links column-->
-
-      <div class="col-lg-2 col-md-3 footer-links">
-        <h4>Nobis illum</h4>
-        <ul>
-          <li><a href="#">Ipsam</a></li>
-          <li><a href="#">Laudantium dolorum</a></li>
-          <li><a href="#">Dinera</a></li>
-          <li><a href="#">Trodelas</a></li>
-          <li><a href="#">Flexo</a></li>
+          <li><a href="#">Laboratory equipment</a></li>
+          <li><a href="#">Imaging solutions</a></li>
+          <li><a href="#">ICU solutions</a></li>
+          <li><a href="#">Hospital furniture</a></li>
         </ul>
       </div><!-- End footer links column-->
 
