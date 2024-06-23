@@ -14,6 +14,7 @@
     <?php include 'models/guarantee/guarantee.php' ?>
     <?php include 'models/counter/counter.php' ?>
     <?php include 'models/team/team.php' ?>
+    <?php include 'models/products/products.php' ?>
     <?php include 'models/partners/partners.php' ?>
 
 

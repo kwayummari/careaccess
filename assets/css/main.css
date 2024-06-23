@@ -936,9 +936,12 @@ section {
 }
 
 .projects .portfolio-flters li {
+  background-color: #08B79C;
+  color: #fff;
   cursor: pointer;
   display: inline-block;
-  padding: 0;
+  padding: 15px;
+  border-radius: 20px;
   font-size: 18px;
   font-weight: 500;
   margin: 0 10px;
@@ -949,7 +952,7 @@ section {
 
 .projects .portfolio-flters li:hover,
 .projects .portfolio-flters li.filter-active {
-  color: var(--color-primary);
+  color: #fff;
 }
 
 .projects .portfolio-flters li:first-child {
