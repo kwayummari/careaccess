@@ -864,6 +864,7 @@ section {
   font-size: 18px;
   font-weight: 600;
   margin: 0;
+  text-align: center;
 }
 
 @media (max-width: 575px) {
