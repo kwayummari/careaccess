@@ -6,7 +6,7 @@
           <div class="col-lg-6 text-center">
             <h2 data-aos="fade-down">Welcome to <span>Care Access Limited!</span></h2>
             <p data-aos="fade-up">Established in 2022, Care Access has quickly become a trusted leader in the field of medical devices and supplies in Tanzania and within the region.</p>
-            <a data-aos="fade-up" data-aos-delay="200" href="#get-started" id="about" class="btn-get-started">Get Started</a>
+            <a data-aos="fade-up" data-aos-delay="200" href="#about" class="btn-get-started">Get Started</a>
           </div>
         </div>
       </div>
