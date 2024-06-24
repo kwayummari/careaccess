@@ -2,7 +2,7 @@
 <section id="clients">
         <div class="container" data-aos="zoom-in">
           <header class="section-header">
-            <h3>Our Clients</h3>
+            <h3>Our Partners</h3>
           </header>
 
           <div class="clients-slider swiper">
