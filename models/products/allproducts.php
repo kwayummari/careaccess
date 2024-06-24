@@ -12,8 +12,8 @@
             <li data-filter=".filter-imaging">Imaging solutions</li>
             <li data-filter=".filter-icu">ICU solutions</li>
             <li data-filter=".filter-hospital">Hospital furniture</li>
-            <li data-filter=".filter-Orthopedic">Orthopedic implants & instruments</li>
-            <li data-filter=".filter-Rapid">Rapid diagnostic kits</li>
+            <li data-filter=".filter-orthopedic">Orthopedic implants & instruments</li>
+            <li data-filter=".filter-rapid">Rapid diagnostic kits</li>
             <li data-filter=".filter-Dental">Dental equipment</li>
             <li data-filter=".filter-Medical">Medical consumables and disposables</li>
             <li data-filter=".filter-Surgical">Surgical equipment</li>
@@ -29,6 +29,8 @@
             <?php include 'surgical.php'?>
             <?php include 'icu.php' ?>
             <?php include 'hospital.php' ?>
+            <?php include 'orthopedic.php' ?>
+            <?php include 'rapid.php' ?>
           </div><!-- End Projects Container -->
 
         </div>
