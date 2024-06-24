@@ -1,5 +1,5 @@
 <!-- ======= Alt Services Section ======= -->
-<section id="alt-services" class="alt-services">
+<section id="alt-services" class="alt-services" id="about">
       <div class="container" data-aos="fade-up">
 
         <div class="row justify-content-around gy-4">
