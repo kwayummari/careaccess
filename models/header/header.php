@@ -18,8 +18,8 @@
           <li><a href="#about" <?php setActiveClass('about.php'); ?>>About</a></li>
           <li><a href="#services" <?php setActiveClass('services.php'); ?>>Services</a></li>
           <li><a href="#products" <?php setActiveClass('projects.php'); ?>>Products</a></li>
-          <li><a href="blog.php" <?php setActiveClass('blog.php'); ?>>Blog</a></li>
-          <li><a href="contact.php" <?php setActiveClass('contact.php'); ?>>Contact</a></li>
+          <li><a href="#" <?php setActiveClass('blog.php'); ?>>Blog</a></li>
+          <li><a href="#" <?php setActiveClass('contact.php'); ?>>Contact</a></li>
         </ul>
       </nav><!-- .navbar -->
 

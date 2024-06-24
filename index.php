@@ -8,17 +8,30 @@
   <?php include 'models/carousel/carousel.php' ?>
 
   <main id="main">
-    <?php include 'models/about/about.php' ?>
-    <?php include 'models/mission/mission.php' ?>
-    <?php include 'models/what/what.php' ?>
-    <?php include 'models/guarantee/guarantee.php' ?>
-    <?php include 'models/counter/counter.php' ?>
-    <?php include 'models/team/team.php' ?>
-    <?php include 'models/products/products.php' ?>
-    <?php include 'models/partners/partners.php' ?>
-
-
-
+    <section id="about">
+      <?php include 'models/about/about.php' ?>
+    </section>
+    <section id="mission">
+      <?php include 'models/mission/mission.php' ?>
+    </section>
+    <section id="what">
+      <?php include 'models/what/what.php' ?>
+    </section>
+    <section id="guarantee">
+      <?php include 'models/guarantee/guarantee.php' ?>
+    </section>
+    <section id="counter">
+      <?php include 'models/counter/counter.php' ?>
+    </section>
+    <section id="team">
+      <?php include 'models/team/team.php' ?>
+    </section>
+    <section id="products">
+      <?php include 'models/products/products.php' ?>
+    </section>
+    <section id="partners">
+      <?php include 'models/partners/partners.php' ?>
+    </section>
   </main><!-- End #main -->
 
   <?php include 'models/footer/footer.php' ?>
