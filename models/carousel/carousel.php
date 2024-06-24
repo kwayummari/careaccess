@@ -1,4 +1,4 @@
-<section id="hero" class="hero">
+<section id="hero" class="hero" id="home">
 
     <div class="info d-flex align-items-center">
       <div class="container">
