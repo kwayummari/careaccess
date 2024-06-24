@@ -26,7 +26,7 @@
                 <div class="portfolio-info">
                   <h4></h4>
                   <p>Icu Equipment</p>
-                  <a href="assets/img/icu/icu3.png" title="" data-gallery="portfolio-gallery-repairs" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="assets/img/icu/icu3.jpg" title="" data-gallery="portfolio-gallery-repairs" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                 </div>
               </div>
             </div><!-- End Projects Item -->

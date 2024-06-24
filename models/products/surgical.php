@@ -26,7 +26,7 @@
                 <div class="portfolio-info">
                   <h4></h4>
                   <p>Surgical Equipment</p>
-                  <a href="assets/img/surgical/surgical3.png" title="Retractors" data-gallery="portfolio-gallery-repairs" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="assets/img/surgical/surgical3.jpg" title="Retractors" data-gallery="portfolio-gallery-repairs" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                 </div>
               </div>
             </div><!-- End Projects Item -->
