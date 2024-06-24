@@ -19,6 +19,7 @@
             <?php include 'laboratory.php'?>
             <?php include 'surgical.php'?>
             <?php include 'icu.php' ?>
+            <?php include 'hospital.php' ?>
 
           </div><!-- End Projects Container -->
 
