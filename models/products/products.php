@@ -24,6 +24,10 @@
           </div><!-- End Projects Container -->
 
         </div>
-
+      </div>
+      <div style="display: flex; align-items: center;">
+      <a data-aos="fade-up" data-aos-delay="200" href="products.php" 
+      style="background-color: #08B79C; color: aliceblue; 
+      padding: 15px; border-radius: 20px;" class="btn-get-started">View More Products</a>
       </div>
     </section><!-- End Our Projects Section -->
