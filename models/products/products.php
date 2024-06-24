@@ -1,5 +1,5 @@
 <!-- ======= Our Projects Section ======= -->
-<section id="projects" class="projects">
+<section id="projects" class="projects" id="products">
       <div class="container" data-aos="fade-up">
       <div class="section-header">
             <h2>OUR SPECIAL PRODUCTS</h2>
