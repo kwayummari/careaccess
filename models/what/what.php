@@ -79,7 +79,7 @@
                 </ul>
               </div>
               <div class="col-lg-6 order-1 order-lg-2 text-center">
-                <img src="assets/img/what/what3.jpg" alt="" class="img-fluid">
+                <img src="assets/img/what/what6.jpg" alt="" class="img-fluid">
               </div>
             </div>
           </div><!-- End tab content item -->
