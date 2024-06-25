@@ -6,7 +6,7 @@
 
       <a href="index.php" class="logo d-flex align-items-center">
         <!-- Uncomment the line below if you also wish to use an image logo -->
-        <img src="assets/img/logo3.png" width="150px" height="100px" alt="">
+        <img src="assets/img/logo4.png" width="150px" height="100px" alt="">
         <!-- <h1>CARE ACCESS<span>.</span></h1> -->
       </a>
 
