@@ -355,7 +355,7 @@ section {
     font-family: var(--font-primary);
     font-size: 14px;
     font-weight: 500;
-    color: rgba(255, 255, 255, 0.6);
+    color: rgba(0, 0, 0, 0.6);
     text-transform: uppercase;
     white-space: nowrap;
     transition: 0.3s;
@@ -393,7 +393,7 @@ section {
   .navbar .active,
   .navbar .active:focus,
   .navbar li:hover>a {
-    color: #fff;
+    color: #000;
   }
 
   .navbar .dropdown ul {
@@ -506,7 +506,7 @@ section {
     font-family: var(--font-primary);
     font-size: 15px;
     font-weight: 500;
-    color: rgba(255, 255, 255, 0.7);
+    color: rgba(0, 0, 0, 0.7);
     white-space: nowrap;
     text-transform: uppercase;
     transition: 0.3s;
@@ -523,7 +523,7 @@ section {
   .navbar .active,
   .navbar .active:focus,
   .navbar li:hover>a {
-    color: #fff;
+    color: #000;
   }
 
   .navbar .dropdown ul,
@@ -543,7 +543,7 @@ section {
 
   .mobile-nav-show {
     position: relative;
-    color: #fff;
+    color: #000;
     font-size: 28px;
     cursor: pointer;
     line-height: 0;
@@ -553,7 +553,7 @@ section {
   }
 
   .mobile-nav-hide {
-    color: #fff;
+    color: #000;
     font-size: 32px;
     cursor: pointer;
     line-height: 0;
