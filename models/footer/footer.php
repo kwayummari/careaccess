@@ -11,7 +11,7 @@
           <p>
           Established in 2022, Care Access has quickly become a trusted leader
           in the field of medical devices and supplies in Tanzania and within the region.<br><br>
-            <strong>Phone:</strong> +255 762 996 305<br>
+            <strong>Phone:</strong> +255 762 788 768<br>
             <strong>Email:</strong> info@careaccess.co.tz<br>
           </p>
           <div class="social-links d-flex mt-3">
