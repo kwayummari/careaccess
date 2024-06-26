@@ -1,9 +1,9 @@
 <!-- ======= Our Clients Section ======= -->
 <section id="clients">
         <div class="container" data-aos="zoom-in">
-          <header class="section-header">
-            <h3>Our Partners</h3>
-          </header>
+          <div class="section-header">
+            <h2>Our Partners</h2>
+        </div>
 
           <div class="clients-slider swiper">
             <div class="swiper-wrapper align-items-center">
