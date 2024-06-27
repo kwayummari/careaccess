@@ -62,6 +62,17 @@
                 CZMEDITECH 
                 </h6>
               </div>
+              <div class="swiper-slide">
+                <img
+                  src="assets/img/partners/partner6.png"
+                  style="height: 100px;"
+                  class="img-fluid"
+                  alt=""
+                />
+                <h6>
+                ACCUBIOTECH 
+                </h6>
+              </div>
               <!-- <div class="swiper-slide"><img src="assets/img/clients/client-7.png" class="img-fluid" alt=""></div>
             <div class="swiper-slide"><img src="assets/img/clients/client-8.png" class="img-fluid" alt=""></div> -->
             </div>
