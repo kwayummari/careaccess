@@ -2,7 +2,7 @@
 <section id="clients">
         <div class="container" data-aos="zoom-in">
           <div class="section-header">
-            <h2>Our Partners</h2>
+            <h2>OUR PARTNERS</h2>
         </div>
 
           <div class="clients-slider swiper">
@@ -54,7 +54,7 @@
               <!-- <div class="swiper-slide"><img src="assets/img/clients/client-7.png" class="img-fluid" alt=""></div>
             <div class="swiper-slide"><img src="assets/img/clients/client-8.png" class="img-fluid" alt=""></div> -->
             </div>
-            <div class="swiper-pagination"></div>
+            <!-- <div class="swiper-pagination"></div> -->
           </div>
         </div>
       </section>
