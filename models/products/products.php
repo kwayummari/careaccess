@@ -26,7 +26,7 @@
         </div>
       </div>
       <div style="display: flex; justify-content: center; align-items: center; margin-top: 20px;">
-        <a data-aos="fade-up" data-aos-delay="200" href="products.php" 
+        <a data-aos="fade-up" data-aos-delay="200" href="allProducts.php" 
         style="background-color: #08B79C; color: aliceblue; 
         padding: 15px; border-radius: 20px;" class="btn-get-started">View More Products</a>
     </div>
