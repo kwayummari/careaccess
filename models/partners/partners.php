@@ -51,6 +51,17 @@
                 Sugentech 
                 </h6>
               </div>
+              <div class="swiper-slide">
+                <img
+                  src="assets/img/partners/partner5.webp"
+                  style="height: 100px;"
+                  class="img-fluid"
+                  alt=""
+                />
+                <h6>
+                CZMEDITECH 
+                </h6>
+              </div>
               <!-- <div class="swiper-slide"><img src="assets/img/clients/client-7.png" class="img-fluid" alt=""></div>
             <div class="swiper-slide"><img src="assets/img/clients/client-8.png" class="img-fluid" alt=""></div> -->
             </div>
