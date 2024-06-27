@@ -19,7 +19,7 @@
     </div><!-- End Breadcrumbs -->
 
   <main id="main">
-      <?php include 'models/products/allProducts.php' ?>
+      <?php include 'models/products/allproducts.php' ?>
   </main><!-- End #main -->
 
   <?php include 'models/footer/footer.php' ?>
