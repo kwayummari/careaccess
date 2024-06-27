@@ -32,6 +32,7 @@
             <?php include 'orthopedic.php' ?>
             <?php include 'rapid.php' ?>
             <?php include 'dental.php' ?>
+            <?php include 'test.php' ?>
           </div><!-- End Projects Container -->
 
         </div>
