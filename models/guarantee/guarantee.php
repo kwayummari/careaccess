@@ -16,7 +16,7 @@
               </div>
               <h3>•	Cutting-edge products</h3>
               <p>Our commitment to cutting-edge products sets new standards in technology and functionality.</p>
-              <a href="service-details.php" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
+              <!-- <a href="service-details.php" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a> -->
             </div>
           </div><!-- End Service Item -->
 
@@ -27,7 +27,7 @@
               </div>
               <h3>•	Trusted brands</h3>
               <p>Trusted brands built on years of consistent quality and customer satisfaction.</p>
-              <a href="service-details.php" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
+              <!-- <a href="service-details.php" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a> -->
             </div>
           </div><!-- End Service Item -->
 
@@ -38,7 +38,7 @@
               </div>
               <h3>•	Prompt delivery and installation</h3>
               <p>We ensure prompt delivery and installation, prioritizing efficiency without compromising quality.</p>
-              <a href="service-details.php" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
+              <!-- <a href="service-details.php" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a> -->
             </div>
           </div><!-- End Service Item -->
 
@@ -49,7 +49,7 @@
               </div>
               <h3>•	Competitive pricing</h3>
               <p>Offering competitive pricing without compromising on quality, ensuring affordability and value.</p>
-              <a href="service-details.php" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
+              <!-- <a href="service-details.php" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a> -->
             </div>
           </div><!-- End Service Item -->
 
@@ -60,7 +60,7 @@
               </div>
               <h3>•	Technical expertise</h3>
               <p>Our team possesses deep technical expertise, ensuring precise and innovative solutions.</p>
-              <a href="service-details.php" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
+              <!-- <a href="service-details.php" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a> -->
             </div>
           </div><!-- End Service Item -->
 
@@ -71,7 +71,7 @@
               </div>
               <h3>•	Excellent customer service</h3>
               <p>Providing excellent customer service with personalized attention and prompt solutions.</p>
-              <a href="service-details.php" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a>
+              <!-- <a href="service-details.php" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a> -->
             </div>
           </div><!-- End Service Item -->
 
