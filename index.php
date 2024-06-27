@@ -8,30 +8,30 @@
   <?php include 'models/carousel/carousel.php' ?>
 
   <main id="main">
-    <section id="about">
+    <div id="about">
       <?php include 'models/about/about.php' ?>
-    </section>
-    <section id="mission">
+    </div>
+    <div id="mission">
       <?php include 'models/mission/mission.php' ?>
-    </section>
-    <section id="what">
+    </div>
+    <div id="what">
       <?php include 'models/what/what.php' ?>
-    </section>
-    <section id="guarantee">
+    </div>
+    <div id="guarantee">
       <?php include 'models/guarantee/guarantee.php' ?>
-    </section>
-    <section id="counter">
+    </div>
+    <div id="counter">
       <?php include 'models/counter/counter.php' ?>
-    </section>
-    <section id="team">
+    </div>
+    <div id="team">
       <?php include 'models/team/team.php' ?>
-    </section>
-    <section id="products">
+    </div>
+    <div id="products">
       <?php include 'models/products/products.php' ?>
-    </section>
-    <section id="partners">
+    </div>
+    <div id="partners">
       <?php include 'models/partners/partners.php' ?>
-    </section>
+    </div>
   </main><!-- End #main -->
 
   <?php include 'models/footer/footer.php' ?>
