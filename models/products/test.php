@@ -58,7 +58,7 @@
                 <img src="assets/img/test/test6.png" class="img-fluid" alt="">
                 <div class="portfolio-info">
                   <h4></h4>
-                  <p>Multi-line Drug Cassette(Micro Saliva)</p>
+                  <p>5-Part Automatic Veterinary Hematology Analyzer</p>
                   <a href="assets/img/test/test6.png" title="" data-gallery="portfolio-gallery-repairs" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                 </div>
               </div>
