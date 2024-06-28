@@ -13,6 +13,7 @@
           in the field of medical devices and supplies in Tanzania and within the region.<br><br>
             <strong>Phone:</strong> +255 762 788 768<br>
             <strong>Email:</strong> info@careaccess.co.tz<br>
+            <strong>Location:</strong> Samora tower<br>
           </p>
           <div class="social-links d-flex mt-3">
             <a href="#" class="d-flex align-items-center justify-content-center"><i class="bi bi-twitter"></i></a>
