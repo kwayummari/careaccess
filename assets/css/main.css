@@ -19,7 +19,7 @@
 /* Colors */
 :root {
   --color-default: #364d59;
-  --color-primary: #08B79C;
+  --color-primary: #6d8df8;
   --color-secondary: #52565e;
 }
 
@@ -43,7 +43,7 @@ a {
 }
 
 a:hover {
-  color: #01f5cf;
+  color: #6d8df8;
   text-decoration: none;
 }
 
@@ -120,7 +120,7 @@ section {
 }
 
 #featured-services i {
-  color: #08B79C;
+  color: #6d8df8;
   font-size: 48px;
   display: inline-block;
   line-height: 1;
@@ -137,7 +137,7 @@ section {
 }
 
 #featured-services h4 a:hover {
-  color: #08B79C;
+  color: #6d8df8;
 }
 
 #featured-services p {
@@ -228,7 +228,7 @@ section {
 }
 
 .scroll-top:hover {
-  background: #01f5cf;
+  background: #6d8df8;
   color: #fff;
 }
 
@@ -649,7 +649,7 @@ section {
 .get-started .php-email-form .sent-message {
   display: none;
   color: #fff;
-  background: #059652;
+  background: #6d8df8;
   text-align: center;
   padding: 15px;
   margin-bottom: 24px;
@@ -671,7 +671,7 @@ section {
   width: 24px;
   height: 24px;
   margin: 0 10px -6px 0;
-  border: 3px solid #059652;
+  border: 3px solid #6d8df8;
   border-top-color: #fff;
   -webkit-animation: animate-loading 1s linear infinite;
   animation: animate-loading 1s linear infinite;
@@ -708,7 +708,7 @@ section {
 }
 
 .get-started .php-email-form button[type=submit]:hover {
-  background: rgba(1,245,207, 0.8);
+  background: rgba(109,141,248, 0.8);
 }
 
 @-webkit-keyframes animate-loading {
@@ -947,7 +947,7 @@ section {
 
 
 .projects .portfolio-flters li {
-  background-color: #08B79C;
+  background-color: #6d8df8;
   color: #fff;
   cursor: pointer;
   display: inline-block;
@@ -1099,13 +1099,13 @@ section {
 }
 
 .testimonials .testimonial-item .stars i {
-  color: #08B79C;
+  color: #6d8df8;
   margin: 0 1px;
 }
 
 .testimonials .testimonial-item .quote-icon-left,
 .testimonials .testimonial-item .quote-icon-right {
-  color: #08B79C;
+  color: #6d8df8;
   font-size: 26px;
   line-height: 0;
 }
@@ -1614,7 +1614,7 @@ section {
 
 .project-details .portfolio-description .testimonial-item .quote-icon-left,
 .project-details .portfolio-description .testimonial-item .quote-icon-right {
-  color: #08B79C;
+  color: #6d8df8;
   font-size: 26px;
   line-height: 0;
 }
@@ -1721,7 +1721,7 @@ section {
   line-height: 0;
   color: var(--color-primary);
   border-radius: 50%;
-  border: 2px dotted #08B79C;
+  border: 2px dotted #6d8df8;
 }
 
 .contact .info-item h3 {
@@ -1765,7 +1765,7 @@ section {
 .contact .php-email-form .sent-message {
   display: none;
   color: #fff;
-  background: #059652;
+  background: #6d8df8;
   text-align: center;
   padding: 15px;
   font-weight: 600;
@@ -1785,7 +1785,7 @@ section {
   width: 24px;
   height: 24px;
   margin: 0 10px -6px 0;
-  border: 3px solid #059652;
+  border: 3px solid #6d8df8;
   border-top-color: #fff;
   -webkit-animation: animate-loading 1s linear infinite;
   animation: animate-loading 1s linear infinite;
@@ -1821,7 +1821,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit]:hover {
-  background: rgba(1,245,207, 0.8);
+  background: rgba(109,141,248, 0.8);
 }
 
 @keyframes animate-loading {
@@ -2422,7 +2422,7 @@ section {
 }
 
 .blog .sidebar .search-form form button:hover {
-  background: rgba(1,245,207, 0.8);
+  background: rgba(109,141,248, 0.8);
 }
 
 .blog .sidebar .categories ul {
@@ -2600,7 +2600,7 @@ section {
 
 .blog .comments .reply-form input:focus {
   box-shadow: none;
-  border-color: rgba(1,245,207, 0.8);
+  border-color: rgba(109,141,248, 0.8);
 }
 
 .blog .comments .reply-form textarea {
@@ -2611,7 +2611,7 @@ section {
 
 .blog .comments .reply-form textarea:focus {
   box-shadow: none;
-  border-color: rgba(1,245,207, 0.8);
+  border-color: rgba(109,141,248, 0.8);
 }
 
 .blog .comments .reply-form .form-group {
